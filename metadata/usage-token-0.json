@@ -1,0 +1,74 @@
+{
+  "name": "Stablecoin Weekly News Oracle - End of Year Access",
+  "description": "Usage rights for Stablecoin Weekly News Oracle with Grok model access, text analysis, Gamma integration, industry knowledge, English processing, and finance domain expertise. Valid through December 31, 2025.",
+  "image": "https://raw.githubusercontent.com/oregpt/core-agent-tokenization-evm/master/assets/usage-token-end-of-year.png",
+  "external_url": "https://github.com/oregpt/core-agent-tokenization-evm",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Usage Rights"
+    },
+    {
+      "trait_type": "Access Tier",
+      "value": "Premium Limited"
+    },
+    {
+      "trait_type": "Model Access",
+      "value": "Grok Only"
+    },
+    {
+      "trait_type": "Valid From",
+      "value": "September 4, 2025"
+    },
+    {
+      "trait_type": "Valid Until",
+      "value": "December 31, 2025"
+    },
+    {
+      "trait_type": "Duration",
+      "value": "118 days"
+    },
+    {
+      "trait_type": "Features",
+      "value": "Weekly reports, Gamma slides, breaking news"
+    },
+    {
+      "trait_type": "Restrictions",
+      "value": "No GPT4/Claude access"
+    },
+    {
+      "trait_type": "Transferable",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Agent Referenced",
+      "value": "Stablecoin Weekly News Oracle"
+    },
+    {
+      "trait_type": "Agent Token ID",
+      "value": "1"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Base Mainnet"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "ERC-1155"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Active"
+    }
+  ],
+  "properties": {
+    "referencedAgentId": "stablecoin-weekly-oracle-001",
+    "referencedAgentContract": "0xf241D4c20A5A578feA25269bb20143A83a5272fD",
+    "usageContract": "0x285f2A83ae846500ED876E143a0125D431cEd771",
+    "tokenId": 0,
+    "subscriptionType": "Premium Limited",
+    "includedAttributes": "Text, Gamma, Industry Specific, English, Finance",
+    "validUntilTimestamp": 1735689599,
+    "currentlyActive": true
+  }
+}

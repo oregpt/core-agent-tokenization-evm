@@ -1,0 +1,77 @@
+{
+  "name": "Stablecoin Weekly News Oracle",
+  "description": "AI-powered stablecoin market intelligence agent monitoring 150+ sources across 6 ecosystem categories to curate top 10 weekly developments by market impact. Generates Gamma.app presentations for DeFi professionals and institutional investors. Specializes in Circle, Tether, MakerDAO, regulatory developments, and cross-chain innovations.",
+  "image": "https://raw.githubusercontent.com/oregpt/core-agent-tokenization-evm/master/assets/stablecoin-oracle-avatar.png",
+  "external_url": "https://github.com/oregpt/core-agent-tokenization-evm",
+  "attributes": [
+    {
+      "trait_type": "Agent Type",
+      "value": "Market Intelligence"
+    },
+    {
+      "trait_type": "Model",
+      "value": "GPT4"
+    },
+    {
+      "trait_type": "Modality", 
+      "value": "Text"
+    },
+    {
+      "trait_type": "Integration",
+      "value": "Gamma"
+    },
+    {
+      "trait_type": "Knowledge Base",
+      "value": "Industry Specific"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "Finance"
+    },
+    {
+      "trait_type": "Specialization",
+      "value": "Stablecoin Analysis"
+    },
+    {
+      "trait_type": "Output Format",
+      "value": "Gamma.app Presentations"
+    },
+    {
+      "trait_type": "Update Frequency",
+      "value": "Weekly"
+    },
+    {
+      "trait_type": "Source Count",
+      "value": "150+"
+    },
+    {
+      "trait_type": "Target Audience",
+      "value": "DeFi Professionals"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Base Mainnet"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "ERC-721"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Active"
+    }
+  ],
+  "properties": {
+    "agentId": "stablecoin-weekly-oracle-001",
+    "version": "1.0.0",
+    "platform": "MoluAbi",
+    "contract": "0xf241D4c20A5A578feA25269bb20143A83a5272fD",
+    "tokenId": 1,
+    "ecosystemCategories": "Issuers, Protocols, Infrastructure, Networks, Regulators, Institutions",
+    "keyFocusAreas": "Circle, Tether, MakerDAO, Regulatory, Cross-chain"
+  }
+}
