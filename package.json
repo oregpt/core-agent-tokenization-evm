@@ -1,0 +1,38 @@
+{
+  "name": "simplifiedagenttokenization",
+  "version": "1.0.0",
+  "description": "Simplified agent tokenization system with 2-contract architecture for Base network",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "test:gas": "REPORT_GAS=true npx hardhat test",
+    "deploy:testnet": "npx hardhat run scripts/deploy-testnet.js --network base-sepolia",
+    "deploy:mainnet": "npx hardhat run scripts/deploy-mainnet.js --network base",
+    "validate:mainnet": "npx hardhat run scripts/validate-mainnet-ready.js --network base",
+    "create:sample": "npx hardhat run scripts/create-sample-agent.js --network base-sepolia",
+    "clean": "npx hardhat clean"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "base",
+    "nft",
+    "erc721",
+    "erc1155",
+    "agent",
+    "tokenization",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.2",
+    "hardhat": "^2.26.3"
+  }
+}
